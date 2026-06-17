@@ -1,6 +1,6 @@
 # ShopEZ E-Commerce Application
 
-## Demo
+## Live Demo
 https://shopez-frontend-ruddy.vercel.app
 
 ## Frontend Repository
@@ -9,8 +9,14 @@ https://github.com/MohitVarma24/shopez-frontend
 ## Backend Repository
 https://github.com/MohitVarma24/shopez-backend
 
+## Features
+- Product browsing
+- User authentication
+- Shopping cart
+- Checkout flow
+- Admin dashboard
+
 ## Tech Stack
-- React
-- Node.js
-- Express.js
-- MongoDB
+Frontend: React, CSS
+Backend: Node.js, Express.js
+Database: MongoDB
